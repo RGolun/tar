@@ -130,7 +130,7 @@ Legenda:
 1. Cwilik Dawid
 1. Dziubiński Maciej
 1. Gawin Mateusz
-1. Gołuński Radosław
+1. [Gołuński Radosław](https://github.com/RGolun/Ruby)
 1. Jabłoński Jakub
 1. Jędzierowska Magdalena
 1. Kalinowski Damian
